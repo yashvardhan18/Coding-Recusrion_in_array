@@ -14,6 +14,7 @@ public class DisplayArray {
         displayArr(arr,0);
     }
 
+
     public static void displayArr(int[] arr, int idx){
         if(idx==arr.length){
             return;
