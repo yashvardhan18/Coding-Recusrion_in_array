@@ -16,6 +16,7 @@ public class FirstIndex {
         System.out.println(fi);
     }
 
+    
     public static int firstIndex(int[] arr, int idx, int x){
         if(idx==arr.length){
             return -1;
