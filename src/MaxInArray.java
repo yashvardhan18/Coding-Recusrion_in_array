@@ -15,6 +15,7 @@ public class MaxInArray {
         System.out.println(max);
     }
 
+    
     public static int maxOfArray(int[] arr, int idx){
         if(idx==arr.length-1){
             return arr[idx];
