@@ -23,6 +23,7 @@ public class AllIndexes {
         }
     }
 
+    
     public static int[] allIndices(int[] arr, int x, int idx, int fsf) {
         if(idx == arr.length){
             return new int[fsf];
